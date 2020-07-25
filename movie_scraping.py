@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-
+dd
 #python코드가 아니라 사람이넉하려고 넣는 경우가 많다
 headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36' }
 #ajax를 한것같이 데이터를 불러오는 부분
